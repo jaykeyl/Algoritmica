@@ -16,14 +16,14 @@ El contenido de esta materia es el siguiente:
 - Greedy
 - Programación Dinámica
 #### 4. Estructura de Datos
-- Listas Enlazadas
-- Listas Doblemente enlazadas
-- Pilas (Stack)
+- [Pilas (Stack)] (Capitulos/Estructuras_de_Datos/Pilas(Stacks))
 - Colas (Queue)
 - Colas de Prioridades (Priority Queue)
-- Vectores
 - Árboles (Trees)
 - Grafos (Graphs)
+- Vectores
+- Listas Enlazadas
+- Listas Doblemente enlazadas
 #### 5. Programación Dinámica
 
 #### 6. Teoría de Grafos
