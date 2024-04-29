@@ -18,12 +18,12 @@ El contenido de esta materia es el siguiente:
 ### 4. Estructura de Datos
 - [Pilas (Stacks)](Capitulos/Estructuras_de_Datos/Pilas/Pilas.cpp)
 - [Colas (Queue)](Capitulos/Estructuras_de_Datos/Colas/Colas.cpp)
-- Colas de Prioridades (Priority Queue)
-- Árboles (Trees)
 - Grafos (Graphs)
 - Vectores
 - Listas Enlazadas
 - Listas Doblemente enlazadas
+- Colas de Prioridades (Priority Queue)
+- Árboles (Trees)
 ### 5. Programación Dinámica
 
 ### 6. Teoría de Grafos
