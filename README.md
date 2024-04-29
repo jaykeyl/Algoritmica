@@ -17,9 +17,11 @@ El contenido de esta materia es el siguiente:
 - Programación Dinámica
 #### 4. Estructura de Datos
 - Listas Enlazadas
+- Listas Doblemente enlazadas
 - Pilas (Stack)
 - Colas (Queue)
 - Colas de Prioridades (Priority Queue)
+- Vectores
 - Árboles (Trees)
 - Grafos (Graphs)
 #### 5. Programación Dinámica
