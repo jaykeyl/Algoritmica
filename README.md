@@ -16,7 +16,7 @@ El contenido de esta materia es el siguiente:
 - Greedy
 - Programación Dinámica
 ### 4. Estructura de Datos
-- [Pilas] (Capitulos/Estructuras_de_Datos/Pilas/Pilas.cpp)
+- [Pilas](Capitulos/Estructuras_de_Datos/Pilas/Pilas.cpp)
 - Colas (Queue)
 - Colas de Prioridades (Priority Queue)
 - Árboles (Trees)
