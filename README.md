@@ -18,7 +18,7 @@ El contenido de esta materia es el siguiente:
 ### 4. Estructura de Datos
 - [Pilas (Stacks)](Capitulos/Estructuras_de_Datos/Pilas/Pilas.cpp)
 - [Colas (Queue)](Capitulos/Estructuras_de_Datos/Colas/Colas.cpp)
-- [Grafos (Graphs)](Capitulos/Estructuras_de_Datos/Grafos/grafos.cpp)
+- [Grafos (Graphs)](Capitulos/Estructuras_de_Datos/Grafos)
 - Vectores
 - Listas Enlazadas
 - Listas Doblemente enlazadas
